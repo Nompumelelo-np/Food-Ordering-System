@@ -122,7 +122,7 @@ $query = $conn->query("SELECT * FROM system_settings limit 1")->fetch_array();
   							<input type="password" id="password" name="password" class="form-control">
   						</div>
 						<div class="form-group">
-							<a href="./../" class="text-dark">Back to Website</a>
+							<a href="./../" class="text-dark">Back to Home</a>
   						</div>
   						<center><button class="btn-sm btn-block btn-wave col-md-4 btn-dark">Login</button></center>
   					</form>
